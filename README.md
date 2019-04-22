@@ -9,3 +9,7 @@ Then import the data and use the provided SQL scripts to transform the dataset.
 To recreate the visualisation use the free PowerBI Desktop version from https://powerbi.microsoft.com/de-de/
 
 With the PowerBI Dektop version you can also open the provided PowerBI file (Financial_data_analysis_austria.pbix) with all the data included (no large datasets).
+
+
+DOI for this  repository:
+https://zenodo.org/badge/latestdoi/182556129
