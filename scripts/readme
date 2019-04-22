@@ -1,1 +1,4 @@
+This folder contains the SQL-Scripts to transform the raw government data into prepared data for Microsoft PowerBI.
 
+They were executed on Microsoft SQL Server Express (64-bit) version 14.0.2002.14
+Windows 10 Home (10.0) as operating system.
