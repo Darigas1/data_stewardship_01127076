@@ -12,4 +12,4 @@ With the PowerBI Dektop version you can also open the provided PowerBI file (Fin
 
 
 DOI for this  repository:
-https://zenodo.org/badge/latestdoi/182556129
+https://zenodo.org/badge/latestdoi/182556129   (10.5281/zenodo.2648674)
